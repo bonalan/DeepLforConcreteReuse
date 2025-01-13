@@ -1,4 +1,4 @@
-# DeepLforConcreteReuse
+# From Waste to Resource: Deep Learning-Enhanced Design Exploration for the Reuse of Concrete Cutting Waste
 This repository contains supplementary material to the publication From Waste to Resource: Deep Learning-Enhanced Design Exploration for the Reuse of Concrete Cutting Waste, by Önalan Beril, Triantafyllidis Eleftherios, Mitropoulou Ioanna, and Catherine De Wolf. Our research introduces a novel computational design approach to automate the reuse of concrete cutting waste in new architectural elements during the early design phase. The methodology employs a deep learning-based workflow to facilitate performance-based design from a constrained stock of concrete waste, enabling scalability and efficiency in circular design practices. This paper is currently under peer review in the Technology | Architecture + Design Journal.
 
 Features
