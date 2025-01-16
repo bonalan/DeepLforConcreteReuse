@@ -11,7 +11,6 @@ app = Flask(__name__)
 hops = hs.Hops(app)
 
 # Load the saved scaler
-#scaler = joblib.load('X:/My Drive/CEA/PhD/Code/ACADIA24/scaler.save')
 scaler_features = joblib.load('/model/scaler_features.pkl')
 scaler_targets = joblib.load('/model/scaler_targets.pkl')
 scaler_yeo = joblib.load('/model/scaler_yeo.pkl')
