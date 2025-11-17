@@ -1,5 +1,5 @@
 <img width="1087" height="283" alt="Screenshot 2025-11-17 at 13 59 01" src="https://github.com/user-attachments/assets/bf516909-e604-47c1-821a-176f58aba9d2" />
-# Deep Neural Network-Based Design Exploration with Concrete Cutting Waste
+## Deep Neural Network-Based Design Exploration with Concrete Cutting Waste
 
 This repository contains supplementary material to the publication *From Waste to Resource: Deep Learning-Enhanced Design Exploration for the Reuse of Concrete Cutting Waste*, by Önalan Beril, Triantafyllidis Eleftherios, Mitropoulou Ioanna, and Catherine De Wolf.
 
